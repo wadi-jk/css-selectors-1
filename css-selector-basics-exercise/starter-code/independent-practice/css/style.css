@@ -1,0 +1,39 @@
+ul {
+  width:300px;
+  border-style: dotted;
+  border-width: 3px;
+  border-color: plum;
+  border-radius: 5px;
+}
+
+
+.mammal{
+  color:red;
+  background-color:lavendarBlush;
+  font-weight: bold;
+}
+.bird {
+  color:blue;
+  background-color:lightGray;
+  font-style: italic;
+}
+.fish {
+  color:orange;
+  background-color:lightYellow;
+  text-decoration: underlined;
+}
+
+#mouse {
+  color:gray;
+}
+
+#canary {
+  color:orangeRed;
+}
+
+#penguin {
+  color:black;
+
+}
+
+
